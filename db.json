@@ -1,9 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employees": [
+    {
+      "name": "Deepika",
+      "skills": "Angular,React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "Female",
+      "id": "3"
+    },
+    {
+      "name": "Hari",
+      "id": "4",
+      "skills": "React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "male"
+    },
+    {
+      "name": "Priya",
+      "id": "5",
+      "skills": "React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "Female"
+    },
+    {
+      "name": "Udhaya",
+      "id": "6",
+      "skills": "Angular,React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "Female"
+    },
+    {
+      "name": "Surya",
+      "id": "7",
+      "skills": "Angular,React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "male"
+    },
+    {
+      "name": "John",
+      "id": "8",
+      "skills": "Angular",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "male"
+    },
+    {
+      "name": "Thilaga",
+      "id": "9",
+      "skills": "React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "Female"
+    },
+    {
+      "name": "Deepika",
+      "id": 10,
+      "skills": "Angular,React",
+      "project": "Cognizant Internal",
+      "HCM": "Richard",
+      "gender": "Female"
+    }
+  ]
 }
